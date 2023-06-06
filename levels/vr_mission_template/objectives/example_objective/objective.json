@@ -1,20 +1,15 @@
 {
-  "title": "Example Objective",
-  "description": "This is what an <strong>objective description</strong> looks like!",
+  "title": "Difference of Min and Max",
+  "description": "Find the difference of the maximum and minimum number in an array.",
   "validation_fields": [
     {
-      "name": "answer1",
-      "type": "text",
-      "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
-    },
-    {
-      "name": "answer2",
-      "type": "text",
-      "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Click HACK to test your function."
     }
   ],
+  "show_ide": true,
   "rewards": {
     "xp": 100
   }
